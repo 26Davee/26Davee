@@ -3,47 +3,46 @@
 Estudiante de Ingenieria de Software en la Escuela Superior Politecnica de
 Chimborazo, Ecuador.
 
-Me interesa construir software claro, util y orientado a problemas reales. En
-este momento estoy fortaleciendo mi perfil como desarrollador web full stack,
-con foco en aplicaciones de gestion, APIs REST, bases de datos y despliegue de
-proyectos.
+Me interesa construir software claro, util y mantenible. Disfruto especialmente
+trabajar con Python y C++, y tambien me adapto a tecnologias web cuando el
+proyecto lo necesita. Actualmente estoy fortaleciendo mi perfil con proyectos
+full stack, APIs REST, bases de datos y despliegue de aplicaciones reales.
 
-## Enfoque actual
+## Enfoque
 
-- Desarrollo frontend con React y Vite.
-- Backend con Node.js, Express y Prisma.
-- Modelado y consumo de bases de datos PostgreSQL.
-- Documentacion de proyectos para que sean faciles de entender, instalar y
-  evaluar.
-- Mejora continua de arquitectura, buenas practicas y control de versiones.
+- Desarrollo de soluciones practicas para problemas reales.
+- Backend, APIs y modelado de datos.
+- Python y C++ como lenguajes de mayor interes personal.
+- Frontend con React cuando el proyecto requiere una interfaz usable.
+- Documentacion clara para que un proyecto pueda entenderse, ejecutarse y
+  evaluarse sin friccion.
 
 ## Proyecto destacado
 
-### Sistema de gestion de pedidos
+### OrderFlow Manager
 
-Aplicacion web full stack para registrar pedidos, gestionar estados, adjuntar
-imagenes y consultar estadisticas.
+Sistema full stack para gestionar pedidos, clientes, estados, imagenes y
+estadisticas operativas desde una interfaz web.
 
-- Frontend: React, Vite, CSS.
+- Frontend: React, Vite, CSS, Recharts.
 - Backend: Node.js, Express, Prisma.
 - Base de datos: PostgreSQL.
 - Servicios externos: Cloudinary, Railway, Vercel.
+- Organizacion: monorepo con `apps/web` y `apps/api`.
 
-Repositorios:
+Repositorio:
 
-- [temu-frontend](https://github.com/26Davee/temu-frontend)
-- [temu-pedidos](https://github.com/26Davee/temu-pedidos)
+- [orderflow-manager](https://github.com/26Davee/orderflow-manager)
 
 ## Tecnologias
 
-JavaScript, React, Node.js, Express, Prisma, PostgreSQL, HTML, CSS, Git y
-GitHub.
+Python, C++, JavaScript, React, Node.js, Express, Prisma, PostgreSQL, HTML, CSS,
+Git y GitHub.
 
 ## Objetivo
 
-Seguir construyendo proyectos reales, bien documentados y mantenibles, que
-muestren mi crecimiento como estudiante de Ingenieria de Software y como
-desarrollador.
+Seguir construyendo proyectos mas completos, mejor estructurados y con una
+calidad cada vez mas cercana a un entorno profesional.
 
 ## Contacto
 
