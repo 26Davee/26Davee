@@ -60,8 +60,7 @@
     <td colspan="2" valign="top">
       <strong>Arostegui Web</strong><br />
       Prototipo comercial y tecnico para una web empresarial con catalogo,
-      tienda, seguimiento y portal administrativo conectado a backend local.<br
-      /><br />
+      tienda, seguimiento y portal administrativo conectado a backend local.<br /><br />
       <sub>HTML | CSS | JavaScript | Flask | SQLite</sub><br /><br />
       <a href="https://github.com/26Davee/arostegui-web">Repositorio</a>
     </td>
